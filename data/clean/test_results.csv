@@ -1,0 +1,7 @@
+Pollutant,Factor,Test,H,p_value,Effect_size_eps2,Significant,Interpretation
+PM2.5,Zone,Kruskal-Wallis,4261.86,0.0,0.176,True,"PM2.5 differs significantly across zones (H=4261.9, p<0.001, effect size 0.18, large); the median is highest in North (69.3) and lowest in South (35.4)."
+PM2.5,Season,Kruskal-Wallis,5898.19,0.0,0.244,True,"PM2.5 differs significantly across seasons (H=5898.2, p<0.001, effect size 0.24, large); the median is highest in Winter (74.4) and lowest in Monsoon (31.7)."
+PM10,Zone,Kruskal-Wallis,3162.59,0.0,0.185,True,"PM10 differs significantly across zones (H=3162.6, p<0.001, effect size 0.19, large); the median is highest in North (140.5) and lowest in South (72.4)."
+PM10,Season,Kruskal-Wallis,2894.47,0.0,0.17,True,"PM10 differs significantly across seasons (H=2894.5, p<0.001, effect size 0.17, large); the median is highest in Winter (128.6) and lowest in Monsoon (61.2)."
+NO2,Zone,Kruskal-Wallis,1640.37,0.0,0.066,True,"NO2 differs significantly across zones (H=1640.4, p<0.001, effect size 0.07, medium); the median is highest in West (41.4) and lowest in East (17.6)."
+NO2,Season,Kruskal-Wallis,1831.27,0.0,0.074,True,"NO2 differs significantly across seasons (H=1831.3, p<0.001, effect size 0.07, medium); the median is highest in Winter (30.5) and lowest in Monsoon (17.5)."
