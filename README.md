@@ -9,5 +9,8 @@ Pipeline that cleans multi-station air-quality data, finds trends and seasonal p
 4. `streamlit run app/app.py`
 
 ## Findings
-(paste from report.md)  
-Screenshots: (add 2 dashboard screenshots)
+- North has the highest PM2.5 (mean 95.0 µg/m³) and South the lowest (40.3).
+- Winter is the worst season (101.0) and monsoon the best (39.2).
+- Differences across zones and seasons are statistically significant (Kruskal-Wallis, p < 0.001).
+- Overall PM2.5 shows a significant decreasing trend from 2015 to 2020.
+- Live dashboard:https://air-quailty-analysis-2hbvqcckzoqdx3gy8supzw.streamlit.app/
